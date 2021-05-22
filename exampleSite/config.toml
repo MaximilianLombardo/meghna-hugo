@@ -1,14 +1,14 @@
 baseURL = "https://incubatornyc.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Meghna"
+title = "The Incubator"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = ""
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -42,8 +42,8 @@ name = "contact"
 url = "#contact"
 weight = 7
 [[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
+name = "Some other website"
+url = "https://google.com"
 weight = 8
 [Languages.fr]
 contentDir = "content/french"
@@ -81,11 +81,11 @@ name = "contact"
 url = "#contact"
 weight = 7
 [[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
+name = "Another website"
+url = "https://google.com"
 weight = 8
 [params]
-author = "Themefisher"
+author = "Maximilian Lombardo"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"

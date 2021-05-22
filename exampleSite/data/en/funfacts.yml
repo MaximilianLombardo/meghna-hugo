@@ -1,8 +1,8 @@
 ################################# funfacts ##################################
 funfacts:
-  enable : true
+  enable : false
   bg_color : "#FFFFFF"
-  #bg_image : "images/backgrounds/bookcase.jpg"
+  bg_image : "images/backgrounds/bookcase.jpg"
   #bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
     # counter item loop

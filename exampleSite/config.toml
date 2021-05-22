@@ -41,10 +41,10 @@ weight = 6
 name = "contact"
 url = "#contact"
 weight = 7
-[[Languages.en.menu.main]]
-name = "Some other website"
-url = "https://google.com"
-weight = 8
+#[[Languages.en.menu.main]]
+#name = "Some other website"
+#url = "https://google.com"
+#weight = 8
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"

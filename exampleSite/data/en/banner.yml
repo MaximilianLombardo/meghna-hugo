@@ -1,10 +1,11 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image : "images/backgrounds/layla.jpg"
+  #bg_image : "images/backgrounds/layla.jpg"
+  bg_image : "images/backgrounds/mountains.gif"
   #bg_image_webp : "" #"images/backgrounds/hero-area.webp"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Art. Technology. Experiences"
+  title : "Art. Technology. Experiences."
   content : ""
   button:
     enable : true
